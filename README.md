@@ -13,7 +13,7 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 5. [**EDA with Visulaization Lab**](https://github.com/Morteza-Kabiri/Capstone-Project-Final-IBM-Applied-Data-Science/blob/main/jupyter-labs-eda-dataviz.ipynb)
 6. [**Interactive Visual Analytics with Folium**](https://github.com/Morteza-Kabiri/Capstone-Project-Final-IBM-Applied-Data-Science/blob/main/Visual_Analytics_with_Folium.ipynb)
 7. [**Dashboard Application (Code)**](https://github.com/Morteza-Kabiri/Capstone-Project-Final-IBM-Applied-Data-Science/blob/main/Spacex_Dash_App.py)
-8. [**Predictive Analysis - Machine Learning Lab**]()
+8. [**Predictive Analysis - Machine Learning Lab**](https://github.com/Morteza-Kabiri/Capstone-Project-Final-IBM-Applied-Data-Science/blob/main/Predictive_Analysis_-_Machine_Learning_Lab.ipynb)
 9. [**Final Presentation (Slide)**](https://github.com/Morteza-Kabiri/Capstone-Project-Final-IBM-Applied-Data-Science/blob/main/)
 
 
